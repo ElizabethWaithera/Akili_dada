@@ -1,0 +1,14 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+scrapingbee
+python-dotenv
+openai
+sentence-transformers
+pydantic==1.10.8
+docarray==0.32.1
+langchain[docarray]
+pypdf
+tiktoken
