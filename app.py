@@ -97,7 +97,7 @@ class PrintRetrievalHandler(BaseCallbackHandler):
             
 #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 itprodirect 
 #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 shambaai
-openai.api_key = ("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")
+openai.api_key = #("sk-HM1NvfuPZGpsGX85ePZHT3BlbkFJOzgeFqakMMTXjk0sNGKWzr")#add your apikey here from openai    
 openai_api_key=openai.api_key
 pdf_file_path = "Akili.pdf"  # Specify the path to your PDF file
 
